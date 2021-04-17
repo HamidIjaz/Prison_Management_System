@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\hamid ijaz cheema\desktop\project(prison managment system)\my project (pms) in c++\source.cpp(267): warning C4101: 'check1': unreferenced local variable
+c:\users\hamid ijaz cheema\desktop\project(prison managment system)\my project (pms) in c++\source.cpp(391): warning C4101: 'again': unreferenced local variable
+  My project (PMS) in c++.vcxproj -> C:\Users\Hamid Ijaz Cheema\Desktop\Project(Prison managment system)\Debug\My project (PMS) in c++.exe
+  My project (PMS) in c++.vcxproj -> C:\Users\Hamid Ijaz Cheema\Desktop\Project(Prison managment system)\Debug\My project (PMS) in c++.pdb (Full PDB)
